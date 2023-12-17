@@ -1,2 +1,2 @@
 # Equiment-landing-page
-This is the siple website of eqiment-landing-page
+This is the simple website of equiment-landing-page
